@@ -11,10 +11,10 @@ class App extends Component {
 	this.deleteTodo = this.deleteTodo.bind(this);
 	this.state = {
 		todos:[
-			{name: 'spesa'},
-			{name: 'studio'},
-			{name: 'telefonare'},
-			{name: 'fare doccia'}
+			{name: 'jogging'},
+			{name: 'shopping'},
+			{name: 'study math'},
+			{name: 'go to the party'}
 		],
 		
 	}
